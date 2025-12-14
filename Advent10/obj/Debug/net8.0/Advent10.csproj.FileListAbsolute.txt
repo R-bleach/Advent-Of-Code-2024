@@ -1,0 +1,15 @@
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Advent10.exe
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Advent10.deps.json
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Advent10.runtimeconfig.json
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Advent10.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Advent10.pdb
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.AssemblyInfoInputs.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.AssemblyInfo.cs
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.csproj.CoreCompileInputs.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\refint\Advent10.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.pdb
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\Advent10.genruntimeconfig.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\obj\Debug\net8.0\ref\Advent10.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent10\bin\Debug\net8.0\Input.txt

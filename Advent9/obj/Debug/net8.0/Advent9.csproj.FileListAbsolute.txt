@@ -1,0 +1,15 @@
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Advent9.exe
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Input.txt
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Advent9.deps.json
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Advent9.runtimeconfig.json
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Advent9.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\bin\Debug\net8.0\Advent9.pdb
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.AssemblyInfoInputs.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.AssemblyInfo.cs
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.csproj.CoreCompileInputs.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\refint\Advent9.dll
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.pdb
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\Advent9.genruntimeconfig.cache
+C:\Users\Loljk\Documents\CMGT\Y2\personal portfolio\PersonalPortfolio4\Advent9\obj\Debug\net8.0\ref\Advent9.dll
